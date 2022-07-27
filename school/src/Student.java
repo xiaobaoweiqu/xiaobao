@@ -4,6 +4,7 @@ public class Student {
     //阅读
     //跑步
     //f(x) =ax+b
+    //吃饭
     public void  gotoExercise(){
         System.out.println("我们在认真的做广播体操");
 
@@ -19,5 +20,8 @@ public class Student {
     }
     public void gotoRun(){
         System.out.println("我们在认真的跑步");
+    }
+    public void gotoHaveLunch(){
+        System.out.println("我们在吃饭");
     }
 }
